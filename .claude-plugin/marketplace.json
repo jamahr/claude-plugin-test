@@ -1,0 +1,12 @@
+{
+  "name": "mahr-test-marketplace",
+  "owner": { "name": "Andrew Mahr" },
+  "plugins": [
+    {
+      "name": "hello-test",
+      "source": "./plugins/hello-test",
+      "description": "Test plugin to confirm GitHub-hosted plugin install works.",
+      "version": "0.1.0"
+    }
+  ]
+}
